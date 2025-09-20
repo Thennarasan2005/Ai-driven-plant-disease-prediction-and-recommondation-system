@@ -1,0 +1,504 @@
+{
+  "Apple___Apple_scab": {
+    "preventive": [
+      "Plant resistant apple varieties like ‘Liberty’, ‘Enterprise’, or ‘GoldRush’",
+      "Prune trees in late winter or early spring to improve air circulation",
+      "Avoid overhead watering; water at the base early in the day",
+      "Clean up and destroy fallen leaves and fruit each season",
+      "Ensure adequate spacing between apple trees for airflow",
+      "Apply dormant copper spray before bud break"
+    ],
+    "organic": [
+      "Spray neem oil every 7-10 days during wet weather",
+      "Use horticultural sulfur sprays early, at first signs of infection",
+      "Use compost tea as a foliar application to boost plant immunity",
+      "Apply baking soda (sodium bicarbonate) solution with surfactant to reduce spore germination",
+      "Use beneficial microbial products if available"
+    ],
+    "chemical": [
+      "Apply Captan fungicide after petal fall according to label instructions",
+      "Use Mancozeb fungicide periodically in wet conditions",
+      "Use a protectant fungicide before ascospores are released",
+      "Alternate modes of action to prevent resistance"
+    ],
+    "notes": "Apple scab spreads in cool, wet weather. Timing of sprays is critical."
+  },
+  "Apple___Black_rot": {
+    "preventive": [
+      "Remove and destroy infected fruit and mummified apples",
+      "Prune out dead or diseased branches",
+      "Prevent injuries to fruit (insects, hail), which can allow infections",
+      "Maintain tree vigor with proper fertilization",
+      "Ensure good sunlight and airflow within canopy"
+    ],
+    "organic": [
+      "Apply neem oil spray covering fruit and leaves",
+      "Use compost tea to strengthen plant defenses",
+      "Copper-based organic fungicides applied early",
+      "Use dilution of sulfur or other allowed organic protectants"
+    ],
+    "chemical": [
+      "Use Captan or Thiophanate-methyl fungicides per extension recommendations",
+      "Apply fungicide after rainy periods when infection risk is high",
+      "Alternate classes of fungicides to reduce resistance risk"
+    ],
+    "notes": "Disease can overwinter in fruit and wood; sanitation is very helpful."
+  },
+  "Apple___Cedar_apple_rust": {
+    "preventive": [
+      "Avoid planting apple trees near juniper/cedar host plants",
+      "Prune galls from cedar in dormant season",
+      "Space trees for airflow",
+      "Remove cedar trees or remove galls nearby",
+      "Monitor new leaves for orange-yellow spots"
+    ],
+    "organic": [
+      "Spray neem oil at first sign of rust spot appearance",
+      "Sulfur sprays during early leaf development",
+      "Use horticultural oils to suppress spore germination"
+    ],
+    "chemical": [
+      "Use Myclobutanil or similar fungicide early when susceptible leaves are emerging",
+      "Apply protectant fungicides just before spore release",
+      "Repeat applications as needed in wet periods"
+    ],
+    "notes": "Rust spores are airborne; preventative sprays are more effective than trying to cure once visible."
+  },
+  "Apple___healthy": {
+    "preventive": [
+      "Monitor trees regularly for any signs of disease",
+      "Maintain soil fertility and water properly",
+      "Ensure balanced nutrition (avoid excess nitrogen)",
+      "Mulch to conserve moisture and reduce soil splash"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "Tree appears healthy. No treatment required unless symptoms appear."
+  },
+  "Blueberry___healthy": {
+    "preventive": [
+      "Ensure correct soil pH (4.5-5.5) for blueberries",
+      "Mulch to retain moisture and suppress weeds",
+      "Provide good drainage and avoid waterlogging",
+      "Monitor for pests and diseases early"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "Healthy blueberry. No treatment needed unless symptoms occur."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "preventive": [
+      "Prune to improve airflow and light penetration",
+      "Avoid shaded, crowded planting",
+      "Ensure proper spacing and prune interior branches",
+      "Water early in the day and avoid getting foliage wet in evening"
+    ],
+    "organic": [
+      "Apply sulfur sprays during bud break and repeated every 7-10 days under favorable conditions",
+      "Use neem oil sprays when mildew first appears",
+      "Apply biocontrol agents or microbial sprays if available"
+    ],
+    "chemical": [
+      "Use fungicides such as those containing myclobutanil according to label",
+      "Apply protectant sprays before disease is evident if conditions (humidity, shade) favor mildew",
+      "Alternate chemical classes to avoid resistance"
+    ],
+    "notes": "Powdery mildew thrives in warm, humid, low light conditions. Early detection is helpful."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "preventive": [
+      "Regular monitoring for symptoms",
+      "Proper pruning and sanitation",
+      "Ensure good airflow",
+      "Balanced moisture and nutrient levels"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "No treatment needed if no disease symptoms."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "preventive": [
+      "Rotate with non-host crops",
+      "Use resistant or tolerant maize hybrids",
+      "Avoid heavy nitrogen fertilization",
+      "Manage residue from past crops properly"
+    ],
+    "organic": [
+      "Spray neem oil or plant-based antifungal extracts",
+      "Use compost tea sprays in early infection periods",
+      "Implement biocontrol products if available"
+    ],
+    "chemical": [
+      "Apply fungicides containing strobilurins or triazoles under high disease pressure",
+      "Time applications according to weather forecasts (humidity, dew)",
+      "Alternate fungicide classes"
+    ],
+    "notes": "Moisture, warm weather increase risk. Residue management reduces source of inoculum."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "preventive": [
+      "Plant rust-resistant maize cultivars",
+      "Ensure wide spacing and good airflow",
+      "Avoid planting near fields with high rust pressure"
+    ],
+    "organic": [
+      "Neem oil sprays",
+      "Biological fungicides if available"
+    ],
+    "chemical": [
+      "Use fungicides with active ingredients effective vs rust (e.g. strobilurins)",
+      "Apply early when first pustules appear"
+    ],
+    "notes": "Rust can spread rapidly; early detection helps."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "preventive": [
+      "Plant resistant varieties",
+      "Rotate crops and remove old residue",
+      "Avoid planting maize in the same soil too often"
+    ],
+    "organic": [
+      "Use neem oil foliar spray",
+      "Compost based sprays/supporting substances"
+    ],
+    "chemical": [
+      "Fungicides containing strobilurins or triazoles applied when weather is favorable",
+      "Multiple sprays during long periods of leaf wetness"
+    ],
+    "notes": "Blight often worsens when lower leaves are infected and left; remove lower leaves in high humidity"
+  },
+  "Corn_(maize)___healthy": {
+    "preventive": [
+      "Regular crop monitoring",
+      "Balanced fertilization",
+      "Timely irrigation without waterlogging"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "Healthy maize. No treatment required unless symptoms occur."
+  },
+  "Grape___Black_rot": {
+    "preventive": [
+      "Remove and destroy mummified grapes from vines",
+      "Prune infected shoots and ensure good airflow",
+      "Ensure vines are well-spaced and trained",
+      "Remove fallen leaves"
+    ],
+    "organic": [
+      "Use sulfur- or copper-based sprays early",
+      "Apply neem oil or other botanical fungicides",
+      "Use microbial biocontrols if available"
+    ],
+    "chemical": [
+      "Apply Mancozeb or Captan fungicides as preventive sprays",
+      "Use systemic fungicides when disease pressure is high",
+      "Rotate chemical classes"
+    ],
+    "notes": "Black rot progresses rapidly under warm, moist conditions."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "preventive": [
+      "Prune out dead wood and infected vines",
+      "Avoid unnecessary wounding of vines",
+      "Ensure good drainage around vines"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "Very few effective chemical treatments; management mostly cultural."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "preventive": [
+      "Improve air circulation in vineyard",
+      "Remove heavily infected leaves",
+      "Reduce canopy density"
+    ],
+    "organic": [
+      "Apply neem oil sprays",
+      "Use copper sprays when symptoms begin"
+    ],
+    "chemical": [
+      "Copper-based fungicides or other approved protectants",
+      "Repeat treatments as needed during wet weather"
+    ],
+    "notes": "Leaf blight reduces photosynthesis; needs early intervention."
+  },
+  "Grape___healthy": {
+    "preventive": [
+      "Regular pruning",
+      "Balanced irrigation",
+      "Prevent moisture accumulation"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "Healthy grapevines."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "preventive": [
+      "Use certified disease-free seedlings",
+      "Minimize psyllid vector populations via traps or biological control",
+      "Maintain good nutrition and tree health"
+    ],
+    "organic": [
+      "Use neem oil sprays against psyllids",
+      "Place sticky traps for insect vector monitoring"
+    ],
+    "chemical": [
+      "Use insecticides like imidacloprid or thiamethoxam for vector control (as per regulations)",
+      "Follow label instructions strictly and apply at correct intervals"
+    ],
+    "notes": "HLB is difficult to treat; removal of severely infected tree helps reduce spread."
+  },
+  "Peach___Bacterial_spot": {
+    "preventive": [
+      "Plant resistant varieties if available",
+      "Avoid wetting leaves during irrigation",
+      "Sanitize pruning tools between cuts"
+    ],
+    "organic": [
+      "Copper-based organic sprays",
+      "Neem oil applied after wet periods"
+    ],
+    "chemical": [
+      "Oxytetracycline sprays as needed (where legal)",
+      "Follow local guidelines for antibiotic/fungicide usage"
+    ],
+    "notes": "Early application helps reduce spread; avoid overhead watering."
+  },
+  "Peach___healthy": {
+    "preventive": [
+      "Monitor trees regularly",
+      "Maintain good soil and water management",
+      "Control pests which may cause injury"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "Healthy tree."
+  },
+  "Raspberry___healthy": {
+    "preventive": [
+      "Ensure good spacing and airflow",
+      "Avoid water splashes from soil to leaves",
+      "Mulch and maintain soil moisture"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "No treatment needed unless symptoms appear."
+  },
+  "Soybean___healthy": {
+    "preventive": [
+      "Rotate crops to reduce disease buildup",
+      "Maintain balanced fertility",
+      "Monitor for early symptoms"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "Healthy soybean plants."
+  },
+  "Squash___Powdery_mildew": {
+    "preventive": [
+      "Choose resistant squash varieties",
+      "Plant in well-ventilated locations",
+      "Avoid overhead watering and reduce humidity around leaves"
+    ],
+    "organic": [
+      "Use potassium bicarbonate or sulfur sprays",
+      "Apply neem oil regularly",
+      "Use milk spray (diluted) as remedy"
+    ],
+    "chemical": [
+      "Use fungicides such as myclobutanil or sulfur-based products",
+      "Alternate treatments to prevent resistance"
+    ],
+    "notes": "Powdery mildew appears under high humidity and shade; early treatment helps."
+  },
+  "Strawberry___Leaf_scorch": {
+    "preventive": [
+      "Avoid watering late in day",
+      "Ensure good spacing",
+      "Remove old or infected leaves promptly"
+    ],
+    "organic": [
+      "Neem oil sprays on leaf undersides",
+      "Copper-based sprays when first signs appear"
+    ],
+    "chemical": [
+      "Apply Captan or other labeled fungicides",
+      "Use protective treatments before rain or moisture events"
+    ],
+    "notes": "Leaf scorch worsens in strong sun following water stress; maintain even moisture."
+  },
+  "Strawberry___healthy": {
+    "preventive": [
+      "Proper soil preparation",
+      "Good spacing and air flow",
+      "Balanced fertilization and watering"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "Healthy strawberry plants."
+  },
+  "Tomato___Bacterial_spot": {
+    "preventive": [
+      "Use certified disease-free seeds or transplants",
+      "Avoid overhead watering; water in morning",
+      "Sanitize tools regularly"
+    ],
+    "organic": [
+      "Copper sprays or copper formulations approved for bacterial control",
+      "Neem oil or plant extracts when symptoms first appear",
+      "Use biocontrol agents if available"
+    ],
+    "chemical": [
+      "Copper bactericides according to label directions",
+      "Use streptomycin sprays where allowed",
+      "Alternate chemical classes and follow local regulations"
+    ],
+    "notes": "Bacterial spot thrives in warm, moist conditions; early detection helps manage spread."
+  },
+  "Tomato___Early_blight": {
+    "preventive": [
+      "Rotate tomato crops with non-solanaceous crops 2-3 years",
+      "Remove crop debris at season end",
+      "Provide full sun, adequate spacing, and good airflow",
+      "Avoid wetting foliage; use drip irrigation"
+    ],
+    "organic": [
+      "Neem oil sprays early",
+      "Compost tea or plant extract sprays",
+      "Use copper or sulfur protectants"
+    ],
+    "chemical": [
+      "Mancozeb fungicide early in disease development",
+      "Use chlorothalonil or other broad-spectrum fungicides as protectants",
+      "Alternate fungicide modes of action"
+    ],
+    "notes": "Early blight often begins in lower leaves; remove them to reduce spread."
+  },
+  "Tomato___Late_blight": {
+    "preventive": [
+      "Avoid planting in cool, wet periods",
+      "Use resistant or tolerant varieties",
+      "Ensure good drainage and remove volunteer potato plants",
+      "Avoid overhead watering"
+    ],
+    "organic": [
+      "Copper-based sprays when first signs appear",
+      "Organic fungicides approved in your region",
+      "Apply compost extracts or teas where allowed"
+    ],
+    "chemical": [
+      "Use systemic fungicides effective against Phytophthora",
+      "Apply protective fungicides before wet weather",
+      "Repeat applications as needed according to label"
+    ],
+    "notes": "Late blight can spread very fast; preventative protection is essential."
+  },
+  "Tomato___Leaf_Mold": {
+    "preventive": [
+      "Lower humidity in greenhouse",
+      "Increase ventilation and air circulation",
+      "Avoid over-watering"
+    ],
+    "organic": [
+      "Neem oil regularly",
+      "Use biological fungicide products (if available)",
+      "Apply sulfur or potassium bicarbonate when allowed"
+    ],
+    "chemical": [
+      "Apply chlorothalonil or other contact fungicides",
+      "Use protectant sprays during high humidity"
+    ],
+    "notes": "Leaf mold favorable in damp, shaded conditions; keeping leaves dry helps a lot."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "preventive": [
+      "Remove infected lower leaves",
+      "Crop rotation and weed control",
+      "Ensure drainage and avoid overhead irrigation",
+      "Space plants to avoid canopy closure"
+    ],
+    "organic": [
+      "Neem oil or plant extract sprays at first sign",
+      "Copper fungicides or biofungicides",
+      "Compost tea application"
+    ],
+    "chemical": [
+      "Mancozeb or chlorothalonil sprays according to schedule",
+      "Alternate chemical mode of action",
+      "Protective sprays before rainfall"
+    ],
+    "notes": "Septoria often starts from the bottom; remove lower leaves early."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "preventive": [
+      "Maintain proper moisture (mites like dry conditions)",
+      "Remove heavily infested leaves early",
+      "Encourage beneficial predatory insects"
+    ],
+    "organic": [
+      "Use insecticidal soap or neem oil sprays",
+      "Introduce predatory mites or insects",
+      "Spray horticultural oil"
+    ],
+    "chemical": [
+      "Use acaricides labeled for mites (rotate types)",
+      "Follow label safety and reentry guidelines"
+    ],
+    "notes": "Spider mites can explode under heat and drought stress; early detection is key."
+  },
+  "Tomato___Target_Spot": {
+    "preventive": [
+      "Practice crop rotation",
+      "Remove infected plant debris",
+      "Maintain airflow and avoid wet foliage"
+    ],
+    "organic": [
+      "Use neem oil or botanical extracts",
+      "Copper sprays early in infection"
+    ],
+    "chemical": [
+      "Apply fungicides such as mancozeb or chlorothalonil listed for target spot",
+      "Follow label directions carefully"
+    ],
+    "notes": "Target spot becomes serious in moist conditions; protective fungicides help prevent major damage."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "preventive": [
+      "Control whiteflies (vectors) using yellow sticky traps",
+      "Use virus-free seed and seedlings",
+      "Remove affected plants to reduce source"
+    ],
+    "organic": [
+      "Neem oil or botanical insect repellents to reduce whitefly population",
+      "Use row covers or barrier netting"
+    ],
+    "chemical": [
+      "Insecticides like imidacloprid or thiamethoxam for vector control (if permitted)",
+      "Rotate insecticide classes and follow label use"
+    ],
+    "notes": "Virus diseases are harder to treat; focus on preventing vector spread."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "preventive": [
+      "Use certified clean seed and seedlings",
+      "Sanitize tools between plants",
+      "Control aphids and other vector insects"
+    ],
+    "organic": [
+      "Use neem oil or botanical insect repellents",
+      "Remove and destroy infected foliage"
+    ],
+    "chemical": [],
+    "notes": "No specific chemical cure; prevention and vector control are most effective."
+  },
+  "Tomato___healthy": {
+    "preventive": [
+      "Monitor plants regularly for symptoms",
+      "Maintain soil fertility and proper watering",
+      "Use proper spacing and ventilation"
+    ],
+    "organic": [],
+    "chemical": [],
+    "notes": "Healthy tomato plants."
+  }
+}
